@@ -26,5 +26,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-📌 **Would you like me to add anything else before publishing? 🚀**
 
